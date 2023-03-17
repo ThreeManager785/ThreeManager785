@@ -2,6 +2,6 @@
 - 11岁
 - 喜欢Apple & Mincraft
 - 对人类社会感到厌倦
-- 喜欢猫猫
+- 喜欢猫娘
 - Darock Studios
 - 疯子一个
