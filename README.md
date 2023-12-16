@@ -1,7 +1,4 @@
-- 中国大陆 
-- 11岁
-- 喜欢Apple & Mincraft
-- 对人类社会感到厌倦
-- 喜欢猫娘
-- Darock Studios
-- 疯子一个
+- 中国大陆
+- 12岁
+- 目前编写了 0 个由自己编写的项目
+- 曾在 Darock Studio
