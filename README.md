@@ -1,8 +1,8 @@
 
 # ThreeManager785 / Atlantic75
-- 中国大陆
-- 13岁
+- 澳大利亚
+- 14岁
 - 目前独自编写了 3 个项目
-- Serene Garden
+- Qastor
 - Darock Studio
 
